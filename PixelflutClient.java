@@ -10,7 +10,7 @@ public class PixelflutClient {
     }
 
     public static void main(String[] args) {
-        String hostname = "35.234.105.190";
+        String hostname = "35.242.250.117";
         int port = 1234;
  
         try {

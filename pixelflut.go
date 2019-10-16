@@ -6,7 +6,7 @@ import "fmt"
 func main() {
 
 	// connect to this socket
-	conn, err := net.Dial("tcp", "35.234.105.190:1234")
+	conn, err := net.Dial("tcp", "35.242.250.117:1234")
 	if err != nil {
 		fmt.Println(err)
 	}
