@@ -7,7 +7,7 @@
 #include <resolv.h>
 #include <arpa/inet.h>
 
-#define SERVER_ADDR "35.242.250.117"
+#define SERVER_ADDR "35.242.213.137"
 #define PORT 1234
 
 int main()

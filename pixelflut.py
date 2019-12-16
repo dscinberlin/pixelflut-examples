@@ -1,7 +1,7 @@
 import socket
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-s.connect(("35.242.250.117", 1234))
+s.connect(("35.242.213.137", 1234))
 
 def set_pixel(x, y, color):
     s.send(f"CC {x} {y} {color}\n".encode())

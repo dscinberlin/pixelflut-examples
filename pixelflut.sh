@@ -1,6 +1,6 @@
 #!/bin/bash
 
-exec 3</dev/tcp/35.242.250.117/1234
+exec 3</dev/tcp/35.242.213.137/1234
 
 set_pixel()
 {
